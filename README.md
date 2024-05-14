@@ -1,1 +1,1 @@
-[!localimage](smilyface.jpeg)
+[!localimage](smilyface.png)

@@ -1,1 +1,1 @@
-[smilyface](smilyface.png)
+![smilyface](smilyface.png)
